@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/DataFixtures/AppFixtures.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>10</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
+        <group>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/src/Repository/.gitignore</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/.gitignore</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/src/Controller/.gitignore</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/src/Repository/AlimentRepository.php</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/src/Controller/AlimentController.php</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/templates/base.html.twig</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/src/Entity/Aliment.php</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/templates/aliment/aliments.html.twig</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/src/Entity/.gitignore</file>
+            <file>file:/home/franck/www/realisationsSymfony4/3-recettes/translations/.gitignore</file>
+        </group>
+=======
+        <group/>
+>>>>>>> new
+    </open-files>
+</project-private>
